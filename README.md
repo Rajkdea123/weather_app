@@ -1,16 +1,21 @@
-# weather_application
 
-A new Flutter project.
+command for runing the app
+url - https://github.com/Rajkdea123/weather_app.git
 
-## Getting Started
+Open Cmd and type 
 
-This project is a starting point for a Flutter application.
+git clone https://github.com/Rajkdea123/weather_app.git
 
-A few resources to get you started if this is your first Flutter project:
+dir    - For Windows Users
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+cd weather_app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+code .    [ For Vscode Users]
+Open terminal in vscode 
+Add Dependencies/Packages
+1. flutter pub add provider
+2.  flutter pub add http
+3.   flutter pub add shared_preferences
+After this run these command
+flutter pub get
+flutter run 
