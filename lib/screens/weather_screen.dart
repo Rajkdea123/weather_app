@@ -94,6 +94,14 @@ class _WeatherScreenState extends State<WeatherScreen> {
                                       color: Colors.white70,
                                     ),
                                   ),
+                                    const SizedBox(height: 5),
+                                  Text(
+                                    "${weather.windSpeed}km/h" ,
+                                    style: const TextStyle(
+                                      fontSize: 16,
+                                      color: Colors.white70,
+                                    ),
+                                  ),
                                 ],
                               ),
                               const Icon(
