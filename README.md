@@ -5,8 +5,11 @@ url - https://github.com/Rajkdea123/weather_app.git
 Open Cmd and type 
 
 git clone https://github.com/Rajkdea123/weather_app.git
+
 dir    - For Windows Users
+
 cd weather_app
+
 code .    [ For Vscode Users]
 Open terminal in vscode 
 Add Dependencies/Packages
